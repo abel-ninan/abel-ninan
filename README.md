@@ -1,5 +1,5 @@
 
-### 👋 Hi, I’m @abelninan14
+### 👋 Hi, I’m @abel-ninan
 ### 👀 I’m interested in Software Development and Data Analysis
 ### 🌱 I’m currently learning data stuctures and Python
 ### 💞️ I’m looking to collaborate on new projects
